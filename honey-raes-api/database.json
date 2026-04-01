@@ -106,13 +106,6 @@
       "dateCompleted": "2023-08-12T03:06:27.975Z"
     },
     {
-      "userId": 1,
-      "description": "Desktop wont turn on",
-      "emergency": false,
-      "dateCompleted": "",
-      "id": 4
-    },
-    {
       "userId": 3,
       "description": "Speaker phone does not work on iPhone",
       "emergency": true,
@@ -139,11 +132,6 @@
       "id": 1,
       "employeeId": 3,
       "serviceTicketId": 1
-    },
-    {
-      "id": 3,
-      "employeeId": 1,
-      "serviceTicketId": 4
     },
     {
       "employeeId": 2,
